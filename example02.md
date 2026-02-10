@@ -1,3 +1,2 @@
 This is some text
 
-And more text
